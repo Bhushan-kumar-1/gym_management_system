@@ -44,8 +44,7 @@ Steps:
 
 Clone the repository:
 
-git clone https://github.com/bhushan-kumar-1
-/gym-management-system.git
+git clone https://github.com/bhushan-kumar-1/gym-management-system.git
 cd gym-management-system
 
 Backend Setup:
