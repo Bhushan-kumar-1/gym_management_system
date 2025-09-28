@@ -44,7 +44,8 @@ Steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/gym-management-system.git
+git clone https://github.com/bhushan-kumar-1
+/gym-management-system.git
 cd gym-management-system
 
 Backend Setup:
@@ -74,4 +75,4 @@ Open the application at (https://gym-management-v9wi.onrender.com/).
 
 📬 Contact
 
-For any queries, feel free to reach out at pushprajj77@gmail.com or create an issue in the repository.
+For any queries, feel free to reach out at bhushanslmp803202@gmail.com or create an issue in the repository.
