@@ -59,7 +59,6 @@ cd gms-frontend
 npm install
 npm start
 
-Open the application at (https://gym-management-v9wi.onrender.com/).
 
 📸 Screenshots
 ![Screenshot 2025-03-05 005343](https://github.com/user-attachments/assets/40e60b03-80e5-4b97-a7d9-e293ddff934f)
